@@ -3,7 +3,7 @@
 Jogo 2D feito em Unity 6 para o **Projeto Introdução ao Unity (Tutorial)** da disciplina Jogos Digitais 2025.2, Insper.
 
 **Aluno(a):** Matheus Constante Simoes de Campos
-**Jogue no navegador (itch.io):** _[LINK DO ITCH.IO]_
+**Jogue no navegador (itch.io):** https://matheusconst13.itch.io/caminho-do-ninja
 
 ![Capa](Docs/capa_itch.png)
 
