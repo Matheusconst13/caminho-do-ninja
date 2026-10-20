@@ -1,0 +1,9 @@
+{
+  "name": "Testes",
+  "references": ["UnityEngine.TestRunner", "UnityEngine.UI"],
+  "includePlatforms": [],
+  "overrideReferences": true,
+  "precompiledReferences": ["nunit.framework.dll"],
+  "autoReferenced": false,
+  "defineConstraints": ["UNITY_INCLUDE_TESTS"]
+}
